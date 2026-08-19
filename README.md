@@ -1,9 +1,9 @@
-# virulence.github.io
-
 ---
 title: CataclysmStudios
 description: Portfolio website and eventual internet home base
 ---
+
+# virulence.github.io
 
 Personal Website
 <p> Projects! <br> Learning to make a website from scratch </p>  
