@@ -1,3 +1,3 @@
 # virulence.github.io
 Personal Website
-<p> Projects! </p>  
+<p> Projects! <br> Learning to make a website from scratch </p>  
