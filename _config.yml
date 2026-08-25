@@ -1,6 +1,7 @@
-plugins:
+```plugins:
   - jekyll-remote-theme
 remote_theme: pages-themes/merlot@v0.2.0
 
 title: CataclysmStudios
 description: Portfolio website and eventual internet home base
+```
